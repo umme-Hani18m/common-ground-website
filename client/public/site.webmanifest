@@ -1,0 +1,15 @@
+{
+  "name": "Common Ground · Civic innovation commons",
+  "short_name": "Common Ground",
+  "description": "A civic innovation commons connecting lived experience, university talent, and industry capacity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5ed",
+  "theme_color": "#173d35",
+  "icons": [{
+    "src": "/favicon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}

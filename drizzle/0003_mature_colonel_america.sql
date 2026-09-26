@@ -1,0 +1,1 @@
+ALTER TABLE `challenges` ADD `citizenName` varchar(180);

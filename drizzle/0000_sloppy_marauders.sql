@@ -1,0 +1,1 @@
+-- Baseline migration placeholder. The managed database was bootstrapped before this project copy; subsequent portal migrations remain tracked in this folder.

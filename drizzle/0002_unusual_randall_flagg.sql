@@ -1,0 +1,1 @@
+ALTER TABLE `challenges` ADD `creatorOpenId` varchar(64);

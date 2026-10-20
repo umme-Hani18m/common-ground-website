@@ -17,4 +17,4 @@
 * **Deployment:** Manus Workspace Platform
 
 ---
-*Submitted for Hackathon Evaluation.*
+
